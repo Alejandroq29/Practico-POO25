@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿// Program.cs
 using System;
 
@@ -52,28 +51,5 @@ public class Program
         Console.WriteLine("\n--- Fin de la demostración ---");
     }
 }
-=======
-﻿class Program
-{
-    static void Main(string[] args)
-    {
-        Lista miLista = new Lista();
 
-        // Insertar elementos
-        miLista.Insertar(10);
-        miLista.Insertar(20);
-        miLista.Insertar(30);
-        miLista.Insertar(40);
 
-        Console.WriteLine("Lista original:");
-        miLista.Mostrar();
-
-        Console.WriteLine($"\nNúmero de elementos: {miLista.Longitud()}");
-
-        miLista.Invertir();
-        Console.WriteLine("\nLista invertida:");
-        miLista.Mostrar();
-    }
-}
-
->>>>>>> 71d1fb5ce592792f04d753397edc07b78106cff2
