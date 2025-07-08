@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // ListaEnlazada.cs
 using System;
 
@@ -56,6 +57,35 @@ public class ListaEnlazada
     {
         int contador = 0;
         Nodo actual = Cabeza;
+=======
+public class Lista
+{
+    private Nodo cabeza;
+
+    public Lista()
+    {
+        cabeza = null;
+    }
+
+    public void Insertar(int dato)
+    {
+        Nodo nuevo = new Nodo(dato);
+        if (cabeza == null)
+            cabeza = nuevo;
+        else
+        {
+            Nodo actual = cabeza;
+            while (actual.Siguiente != null)
+                actual = actual.Siguiente;
+            actual.Siguiente = nuevo;
+        }
+    }
+
+    public int Longitud()
+    {
+        int contador = 0;
+        Nodo actual = cabeza;
+>>>>>>> 71d1fb5ce592792f04d753397edc07b78106cff2
         while (actual != null)
         {
             contador++;
@@ -64,6 +94,7 @@ public class ListaEnlazada
         return contador;
     }
 
+<<<<<<< HEAD
     // 2. Invertir una lista enlazada
     // Este método invierte el orden de los nodos en la lista.
     // Ejemplo: A -> B -> C se convierte en C -> B -> A
@@ -90,5 +121,16 @@ public class ListaEnlazada
 
         Cabeza = prev; // Una vez terminado el bucle, 'prev' será la nueva cabeza de la lista
         Console.WriteLine("Lista invertida exitosamente.");
+=======
+    public void Mostrar()
+    {
+        Nodo actual = cabeza;
+        while (actual != null)
+        {
+            Console.Write(actual.Dato + " → ");
+            actual = actual.Siguiente;
+        }
+        Console.WriteLine("null");
+>>>>>>> 71d1fb5ce592792f04d753397edc07b78106cff2
     }
 }
