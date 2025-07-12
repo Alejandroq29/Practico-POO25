@@ -1,0 +1,15 @@
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07_ejercicio2\obj\Debug\net9.0\Semana07_ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07_ejercicio2\obj\Debug\net9.0\Semana07_ejercicio2.AssemblyInfoInputs.cache
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07_ejercicio2\obj\Debug\net9.0\Semana07_ejercicio2.AssemblyInfo.cs
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07_ejercicio2\obj\Debug\net9.0\Semana07_ejercicio2.csproj.CoreCompileInputs.cache
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07_ejercicio2\obj\Debug\net9.0\Semana07_ejercicio2.sourcelink.json
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07_ejercicio2\bin\Debug\net9.0\Semana07_ejercicio2.exe
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07_ejercicio2\bin\Debug\net9.0\Semana07_ejercicio2.deps.json
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07_ejercicio2\bin\Debug\net9.0\Semana07_ejercicio2.runtimeconfig.json
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07_ejercicio2\bin\Debug\net9.0\Semana07_ejercicio2.dll
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07_ejercicio2\bin\Debug\net9.0\Semana07_ejercicio2.pdb
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07_ejercicio2\obj\Debug\net9.0\Semana07_ejercicio2.dll
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07_ejercicio2\obj\Debug\net9.0\refint\Semana07_ejercicio2.dll
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07_ejercicio2\obj\Debug\net9.0\Semana07_ejercicio2.pdb
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07_ejercicio2\obj\Debug\net9.0\Semana07_ejercicio2.genruntimeconfig.cache
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07_ejercicio2\obj\Debug\net9.0\ref\Semana07_ejercicio2.dll

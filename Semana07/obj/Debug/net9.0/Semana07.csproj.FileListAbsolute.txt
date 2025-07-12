@@ -1,0 +1,15 @@
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07\obj\Debug\net9.0\Semana07.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07\obj\Debug\net9.0\Semana07.AssemblyInfoInputs.cache
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07\obj\Debug\net9.0\Semana07.AssemblyInfo.cs
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07\obj\Debug\net9.0\Semana07.csproj.CoreCompileInputs.cache
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07\obj\Debug\net9.0\Semana07.sourcelink.json
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07\bin\Debug\net9.0\Semana07.exe
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07\bin\Debug\net9.0\Semana07.deps.json
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07\bin\Debug\net9.0\Semana07.runtimeconfig.json
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07\bin\Debug\net9.0\Semana07.dll
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07\bin\Debug\net9.0\Semana07.pdb
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07\obj\Debug\net9.0\Semana07.dll
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07\obj\Debug\net9.0\refint\Semana07.dll
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07\obj\Debug\net9.0\Semana07.pdb
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07\obj\Debug\net9.0\Semana07.genruntimeconfig.cache
+E:\Users\aleja\Desktop\Estructuradatos\Practico-POO25\Semana07\obj\Debug\net9.0\ref\Semana07.dll
